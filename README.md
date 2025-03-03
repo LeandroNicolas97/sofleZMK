@@ -1,2 +1,2 @@
 # sofleZMK
-This is configuration  by keyboard sofle RGB
+This is the configuration of the keyboard sofle RGB
